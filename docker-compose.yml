@@ -1,12 +1,12 @@
 version: '3'
 services:
   agent:
-    image: optimizely/agent
+    image: optimizely/agent:alpine
     ports:
       - "8080:8080"
       #link agent directory to working agent directory to provide agent/config.yaml <- this has SDK key
     volumes:
-      - ./agent/config.yaml:/var/lib/agent/config.yaml
+      - ./agent/config.yaml:/config.yaml
   minetest:
     image: "registry.gitlab.com/minetest/minetest/server:master"
     #link minetest to server config and custom game lua which uses SDK key to call Agent API -> agent:8080

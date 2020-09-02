@@ -214,3 +214,38 @@
 2020-09-02 21:36:37: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
 2020-09-02 21:36:45: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
 2020-09-02 21:36:45: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-02 21:47:13: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-02 21:47:16: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-02 21:47:16: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-02 22:30:23: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-02 22:30:23: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-02 22:31:03: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-02 22:31:08: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-02 22:31:08: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-02 22:32:57: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-02 22:32:57: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-02 22:33:28: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-02 22:33:32: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-02 22:33:32: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-02 22:38:35: ACTION[Server]: kody [172.24.0.1] joins game. List of players: kody
+2020-09-02 22:38:43: ACTION[Server]: kody leaves game. List of players: 
+2020-09-02 22:40:33: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-02 22:40:33: ACTION[Main]: Server: Shutting down
