@@ -5,3 +5,4 @@ backend = sqlite3
 creative_mode = true
 gameid = minetest
 server_announce = false
+load_mod_optimizely = false

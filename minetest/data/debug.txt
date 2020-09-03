@@ -249,3 +249,14 @@
 2020-09-02 22:38:43: ACTION[Server]: kody leaves game. List of players: 
 2020-09-02 22:40:33: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
 2020-09-02 22:40:33: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-03 18:26:54: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-03 18:26:58: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-03 18:26:58: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-03 18:27:11: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-03 18:27:11: ACTION[Main]: Server: Shutting down
