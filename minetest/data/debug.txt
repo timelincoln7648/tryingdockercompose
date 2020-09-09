@@ -303,3 +303,242 @@
 2020-09-08 23:50:37: ACTION[Server]: CHAT: <bobber> chat chat
 2020-09-08 23:50:52: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
 2020-09-08 23:50:52: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 17:22:35: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:22:39: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:22:39: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 17:24:18: ACTION[Server]: kody [172.29.0.1] joins game. List of players: kody
+2020-09-09 17:24:26: ACTION[Server]: kody leaves game. List of players: 
+2020-09-09 17:24:33: ACTION[Server]: gary [172.29.0.1] joins game. List of players: gary
+2020-09-09 17:25:36: WARNING[Server]: active block modifiers took 201ms (processed 122 of 251 active blocks)
+2020-09-09 17:25:48: WARNING[Server]: active block modifiers took 218ms (processed 70 of 251 active blocks)
+2020-09-09 17:25:55: WARNING[Server]: active block modifiers took 213ms (processed 156 of 251 active blocks)
+2020-09-09 17:26:03: WARNING[Server]: active block modifiers took 201ms (processed 141 of 251 active blocks)
+2020-09-09 17:26:04: WARNING[Server]: active block modifiers took 205ms (processed 222 of 251 active blocks)
+2020-09-09 17:27:17: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-09 17:27:17: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 17:27:43: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:27:50: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:27:50: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 17:28:19: ACTION[Server]: kody [172.30.0.1] joins game. List of players: kody
+2020-09-09 17:28:25: ACTION[Server]: kody leaves game. List of players: 
+2020-09-09 17:28:32: ACTION[Server]: gary [172.30.0.1] joins game. List of players: gary
+2020-09-09 17:28:52: ACTION[Server]: gary granted (interact, settime, home, fly, protection_bypass, server, debug, teleport, creative, rollback, bring, fast, password, ban, shout, privs, kick, noclip, basic_privs, give) privileges to gary
+2020-09-09 17:29:09: ACTION[Server]: gary takes motorbike:red from creative inventory
+2020-09-09 17:29:13: ACTION[Server]: gary takes motorbike:red from creative inventory
+2020-09-09 17:29:15: ACTION[Server]: gary takes motorbike:blue from creative inventory
+2020-09-09 17:29:17: ACTION[Server]: gary takes motorbike:cyan from creative inventory
+2020-09-09 17:29:19: ACTION[Server]: gary takes motorbike:green from creative inventory
+2020-09-09 17:29:22: ACTION[Server]: gary takes motorbike:wheel from creative inventory
+2020-09-09 17:29:25: ACTION[Server]: gary takes motorbike:white from creative inventory
+2020-09-09 17:29:50: ACTION[Server]: gary right-clicks object 4: LuaEntitySAO "motorbike:bike_red" at (186,5,-260)
+2020-09-09 17:30:24: ACTION[Server]: gary activates 
+2020-09-09 17:30:24: ACTION[Server]: gary activates 
+2020-09-09 17:30:25: ACTION[Server]: gary activates 
+2020-09-09 17:30:26: ACTION[Server]: player gary (id=2, hp=20) punched LuaEntitySAO "motorbike:bike_red" at (263,4,-328) (id=4, hp=10), damage=0
+2020-09-09 17:30:26: ACTION[Server]: player gary (id=2, hp=20) punched LuaEntitySAO "motorbike:bike_red" at (263,4,-328) (id=4, hp=10), damage=0
+2020-09-09 17:30:26: ACTION[Server]: Player gary tried to access [object 4] from too far: d=89.4671, max_d=40; ignoring.
+2020-09-09 17:30:27: ACTION[Server]: gary right-clicks object 4: LuaEntitySAO "motorbike:bike_red" at (263,4,-328)
+2020-09-09 17:31:34: ACTION[Server]: gary activates motorbike:white
+2020-09-09 17:31:34: ACTION[Server]: gary activates motorbike:white
+2020-09-09 17:31:36: ACTION[Server]: player gary (id=2, hp=20) punched LuaEntitySAO "motorbike:bike_white" at (359,4,-336) (id=5, hp=10), damage=0
+2020-09-09 17:32:32: ACTION[Server]: gary right-clicks object 7: LuaEntitySAO "motorbike:bike_blue" at (358,3,-337)
+2020-09-09 17:32:44: ACTION[Server]: gary right-clicks object 7: LuaEntitySAO "motorbike:bike_blue" at (357,3,-352)
+2020-09-09 17:32:57: ACTION[Server]: gary leaves game. List of players: 
+2020-09-09 17:33:53: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-09 17:33:53: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 17:36:52: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:36:53: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-09 17:36:53: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-09 17:36:57: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:36:57: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 17:37:11: ACTION[Server]: gary [172.31.0.1] joins game. List of players: gary
+2020-09-09 17:37:28: ACTION[Server]: gary takes jonez:germanic_base from creative inventory
+2020-09-09 17:37:32: ACTION[Server]: gary takes jonez:ruin_creeper from creative inventory
+2020-09-09 17:37:39: ACTION[Server]: gary takes jonez:swedish_ivy from creative inventory
+2020-09-09 17:37:41: ACTION[Server]: gary takes jonez:ruin_vine from creative inventory
+2020-09-09 17:37:43: ACTION[Server]: gary takes jonez:tuscan_base from creative inventory
+2020-09-09 17:38:00: ACTION[Server]: gary places node jonez:germanic_base at (367,3,-348)
+2020-09-09 17:38:00: ACTION[Server]: gary places node jonez:germanic_base at (368,3,-348)
+2020-09-09 17:38:05: ACTION[Server]: gary places node jonez:germanic_base at (369,3,-348)
+2020-09-09 17:38:08: ACTION[Server]: gary places node jonez:germanic_base at (370,3,-348)
+2020-09-09 17:38:09: ACTION[Server]: gary places node jonez:germanic_base at (371,3,-348)
+2020-09-09 17:38:10: ACTION[Server]: gary places node jonez:germanic_base at (372,3,-348)
+2020-09-09 17:38:13: ACTION[Server]: gary places node jonez:germanic_base at (373,3,-348)
+2020-09-09 17:38:13: ACTION[Server]: gary places node jonez:germanic_base at (374,3,-348)
+2020-09-09 17:38:16: ACTION[Server]: gary places node jonez:germanic_base at (375,3,-348)
+2020-09-09 17:38:18: ACTION[Server]: gary places node jonez:germanic_base at (376,3,-348)
+2020-09-09 17:38:23: ACTION[Server]: gary places node jonez:germanic_base at (367,4,-348)
+2020-09-09 17:38:26: ACTION[Server]: gary activates jonez:germanic_base
+2020-09-09 17:38:29: ACTION[Server]: gary places node jonez:germanic_base at (367,5,-348)
+2020-09-09 17:38:35: ACTION[Server]: gary places node jonez:ruin_creeper at (367,3,-343)
+2020-09-09 17:38:36: ACTION[Server]: gary places node jonez:ruin_creeper at (365,3,-345)
+2020-09-09 17:38:46: ACTION[Server]: gary leaves game. List of players: 
+2020-09-09 17:41:35: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-09 17:41:35: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 17:42:43: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:42:43: ERROR[Main]: mod "petz" has unsatisfied dependencies:  "mobkit" "mokapi"
+2020-09-09 17:42:44: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-09 17:42:44: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-09 17:42:48: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:42:48: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 17:43:02: ACTION[Server]: gary [192.168.0.1] joins game. List of players: gary
+2020-09-09 17:43:33: ACTION[Server]: gary leaves game. List of players: 
+2020-09-09 17:44:06: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-09 17:44:06: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 17:44:37: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:44:37: ERROR[Main]: mod "petz" has unsatisfied dependencies:  "mobkit" "mokapi"
+2020-09-09 17:44:38: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-09 17:44:38: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-09 17:44:42: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:44:42: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 17:50:17: ACTION[Server]: gary [192.168.16.1] joins game. List of players: gary
+2020-09-09 17:50:39: ACTION[Server]: gary leaves game. List of players: 
+2020-09-09 17:51:21: ACTION[Server]: gary [192.168.16.1] joins game. List of players: gary
+2020-09-09 17:56:41: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-09 17:56:41: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 17:56:56: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:56:57: ERROR[Main]: mod "mokapi" has unsatisfied dependencies:  "mobkit"
+2020-09-09 17:56:57: ERROR[Main]: mod "petz" has unsatisfied dependencies:  "mobkit" "mokapi"
+2020-09-09 17:56:58: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-09 17:56:58: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-09 17:57:05: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 17:57:05: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 18:03:15: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-09 18:03:15: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 18:05:13: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 18:05:14: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-09 18:05:14: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-09 18:05:18: WARNING[Main]: Not registering alias, item with same name is already defined: petz:horseshoe -> mobs:horseshoe_steel
+2020-09-09 18:05:18: WARNING[Main]: Not registering alias, item with same name is already defined: petz:cheese -> mobs:cheese
+2020-09-09 18:05:26: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 18:05:26: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 18:06:08: ACTION[Server]: gary [192.168.48.1] joins game. List of players: gary
+2020-09-09 18:06:30: ACTION[Main]: Server: Shutting down
+2020-09-09 18:06:32: ERROR[Main]: ServerError: AsyncErr: ServerThread::run Lua: Runtime error from mod 'zombiestrd' in callback luaentity_Step(): /var/lib/minetest/.minetest/mods/mobkit/init.lua:930: attempt to index field 'lastvelocity' (a nil value)
+2020-09-09 18:06:32: ERROR[Main]: stack traceback:
+2020-09-09 18:06:32: ERROR[Main]: 	/var/lib/minetest/.minetest/mods/mobkit/init.lua:930: in function </var/lib/minetest/.minetest/mods/mobkit/init.lua:921>
+2020-09-09 18:06:32: ERROR[Main]: 	[C]: in function 'add_entity'
+2020-09-09 18:06:32: ERROR[Main]: 	/var/lib/minetest/.minetest/mods/zombiestrd/init.lua:235: in function '?'
+2020-09-09 18:06:32: ERROR[Main]: 	/usr/local/share/minetest/builtin/game/register.lua:429: in function </usr/local/share/minetest/builtin/game/register.lua:413>
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 18:07:27: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 18:07:30: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-09 18:07:30: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-09 18:07:37: WARNING[Main]: Not registering alias, item with same name is already defined: petz:horseshoe -> mobs:horseshoe_steel
+2020-09-09 18:07:38: WARNING[Main]: Not registering alias, item with same name is already defined: petz:cheese -> mobs:cheese
+2020-09-09 18:07:56: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 18:07:56: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 18:08:12: ACTION[Server]: gary [192.168.80.1] joins game. List of players: gary
+2020-09-09 18:08:27: ACTION[Main]: Server: Shutting down
+2020-09-09 18:08:27: ACTION[Server]: gary leaves game. List of players: 
+2020-09-09 18:08:28: ERROR[Main]: ServerError: AsyncErr: ServerThread::run Lua: Runtime error from mod 'zombiestrd' in callback luaentity_Step(): /var/lib/minetest/.minetest/mods/mobkit/init.lua:930: attempt to index field 'lastvelocity' (a nil value)
+2020-09-09 18:08:28: ERROR[Main]: stack traceback:
+2020-09-09 18:08:28: ERROR[Main]: 	/var/lib/minetest/.minetest/mods/mobkit/init.lua:930: in function </var/lib/minetest/.minetest/mods/mobkit/init.lua:921>
+2020-09-09 18:08:28: ERROR[Main]: 	[C]: in function 'add_entity'
+2020-09-09 18:08:28: ERROR[Main]: 	/var/lib/minetest/.minetest/mods/zombiestrd/init.lua:235: in function '?'
+2020-09-09 18:08:28: ERROR[Main]: 	/usr/local/share/minetest/builtin/game/register.lua:429: in function </usr/local/share/minetest/builtin/game/register.lua:413>
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 18:14:36: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 18:14:37: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-09 18:14:37: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-09 18:14:41: WARNING[Main]: Not registering alias, item with same name is already defined: petz:horseshoe -> mobs:horseshoe_steel
+2020-09-09 18:14:42: WARNING[Main]: Not registering alias, item with same name is already defined: petz:cheese -> mobs:cheese
+2020-09-09 18:14:52: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 18:14:52: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 18:15:14: ACTION[Server]: gary [192.168.96.1] joins game. List of players: gary
+2020-09-09 18:16:13: ACTION[Server]: player gary (id=1, hp=20) punched LuaEntitySAO "zombiestrd:zombie" at (312,17,-233) (id=14, hp=10), damage=0
+2020-09-09 18:16:14: ACTION[Server]: LuaEntitySAO "zombiestrd:zombie" at (312,17,-233) (id=14, hp=10) punched player gary (id=1, hp=15), damage=5
+2020-09-09 18:16:37: ACTION[Server]: gary takes petz:frog_set from creative inventory
+2020-09-09 18:17:15: ACTION[Server]: gary leaves game. List of players: 
+2020-09-09 18:17:28: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-09 18:17:28: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 18:23:40: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 18:23:43: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-09 18:23:43: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-09 18:23:47: WARNING[Main]: Not registering alias, item with same name is already defined: petz:horseshoe -> mobs:horseshoe_steel
+2020-09-09 18:23:48: WARNING[Main]: Not registering alias, item with same name is already defined: petz:cheese -> mobs:cheese
+2020-09-09 18:23:59: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 18:23:59: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 18:24:13: ACTION[Server]: gary [192.168.112.1] joins game. List of players: gary
+2020-09-09 18:28:46: ACTION[Server]: gary right-clicks object 26: LuaEntitySAO "motorbike:bike_cyan" at (388,7,-285)
+2020-09-09 18:29:06: ACTION[Server]: gary leaves game. List of players: 
+2020-09-09 18:29:06: ACTION[Main]: Server: Shutting down
+2020-09-09 18:29:11: ERROR[Main]: ServerError: AsyncErr: ServerThread::run Lua: Runtime error from mod 'motorbike' in callback luaentity_Step(): .../lib/minetest/.minetest/mods/motorbike/functions.lua:260: attempt to perform arithmetic on a nil value
+2020-09-09 18:29:11: ERROR[Main]: stack traceback:
+2020-09-09 18:29:11: ERROR[Main]: 	.../lib/minetest/.minetest/mods/motorbike/functions.lua:260: in function 'drive'
+2020-09-09 18:29:11: ERROR[Main]: 	/var/lib/minetest/.minetest/mods/motorbike/init.lua:90: in function </var/lib/minetest/.minetest/mods/motorbike/init.lua:87>
+
+
+-------------
+  Separator
+-------------
+
+2020-09-09 19:32:39: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 19:32:41: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-09 19:32:41: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-09 19:32:45: WARNING[Main]: Not registering alias, item with same name is already defined: petz:horseshoe -> mobs:horseshoe_steel
+2020-09-09 19:32:45: WARNING[Main]: Not registering alias, item with same name is already defined: petz:cheese -> mobs:cheese
+2020-09-09 19:32:56: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/world]
+2020-09-09 19:32:56: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-09 19:33:19: ACTION[Server]: gary [192.168.128.1] joins game. List of players: gary
+2020-09-09 19:35:43: ACTION[Server]: gary leaves game. List of players: 
+2020-09-09 19:44:57: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-09 19:44:57: ACTION[Main]: Server: Shutting down
