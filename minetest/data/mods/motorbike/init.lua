@@ -1,4 +1,5 @@
 biker = {}
+biker.riders = {}
 biker.signs = minetest.get_modpath("signs") and minetest.global_exists("generate_texture") and minetest.global_exists("create_line")
 biker.turn_power = minetest.settings:get("motorbike.turn_power") or 0.07--Turning speed of bike 1 is instant. 0.07 is suggested
 biker.max_speed = minetest.settings:get("motorbike.max_speed") or 17--Top speed the bike can go.
@@ -32,8 +33,6 @@ for id, colour in pairs (bikelist) do
 					self.platenumber = staticdata
 				end
 			end
-			if not self.timer1 then self.timer1 = 0 end
-			if not self.timer2 then self.timer2 = 0 end
 			local pos = self.object:get_pos()
 			self.object:set_armor_groups({fleshy=0, immortal=1})
 			if biker.signs then
