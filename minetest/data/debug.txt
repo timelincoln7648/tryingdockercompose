@@ -27557,3 +27557,91 @@
 2020-09-11 09:47:11: ACTION[Server]: gary leaves game. List of players: 
 2020-09-11 09:47:34: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
 2020-09-11 09:47:34: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-11 10:34:33: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/optiworld2]
+2020-09-11 10:34:33: ACTION[Main]: New font registered in font_api: metro.
+2020-09-11 10:34:35: [Main]: Whirlpool Default Loaded
+2020-09-11 10:34:35: ACTION[Main]: New font registered in font_api: tinycurs.
+2020-09-11 10:34:35: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-11 10:34:35: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-11 10:34:40: WARNING[Main]: Not registering alias, item with same name is already defined: petz:horseshoe -> mobs:horseshoe_steel
+2020-09-11 10:34:40: WARNING[Main]: Not registering alias, item with same name is already defined: petz:cheese -> mobs:cheese
+2020-09-11 10:34:53: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/optiworld2]
+2020-09-11 10:34:53: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-11 10:35:26: ACTION[Server]: gary [192.168.224.1] joins game. List of players: gary
+2020-09-11 10:35:29: ERROR[Server]: LuaEntity name "wildlife:wolf" not defined
+2020-09-11 10:35:29: ERROR[Server]: LuaEntity name "wildlife:wolf" not defined
+2020-09-11 10:35:54: ERROR[CurlFetch]: http://localhost:8088/info not found (Couldn't connect to server) (response code 0)
+2020-09-11 10:36:25: ERROR[CurlFetch]: http://localhost:8088/info not found (Couldn't connect to server) (response code 0)
+2020-09-11 10:37:25: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-11 10:37:25: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-11 10:44:07: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/optiworld2]
+2020-09-11 10:44:08: ACTION[Main]: New font registered in font_api: metro.
+2020-09-11 10:44:10: [Main]: Whirlpool Default Loaded
+2020-09-11 10:44:10: ACTION[Main]: New font registered in font_api: tinycurs.
+2020-09-11 10:44:10: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-11 10:44:10: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-11 10:44:16: WARNING[Main]: Not registering alias, item with same name is already defined: petz:horseshoe -> mobs:horseshoe_steel
+2020-09-11 10:44:17: WARNING[Main]: Not registering alias, item with same name is already defined: petz:cheese -> mobs:cheese
+2020-09-11 10:44:29: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/optiworld2]
+2020-09-11 10:44:29: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-11 10:44:55: ACTION[Server]: gary [192.168.240.1] joins game. List of players: gary
+2020-09-11 10:44:57: ERROR[Server]: LuaEntity name "wildlife:wolf" not defined
+2020-09-11 10:45:11: ACTION[Server]: gary places node default:sand at (1633,11,371)
+2020-09-11 10:45:18: ERROR[CurlFetch]: http://agent:8088/info not found (Couldn't connect to server) (response code 0)
+2020-09-11 10:46:27: ACTION[Server]: gary leaves game. List of players: 
+2020-09-11 10:46:32: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-11 10:46:32: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-11 10:50:27: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/optiworld2]
+2020-09-11 10:50:28: ACTION[Main]: New font registered in font_api: metro.
+2020-09-11 10:50:29: [Main]: Whirlpool Default Loaded
+2020-09-11 10:50:29: ACTION[Main]: New font registered in font_api: tinycurs.
+2020-09-11 10:50:29: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-11 10:50:29: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-11 10:50:33: WARNING[Main]: Not registering alias, item with same name is already defined: petz:horseshoe -> mobs:horseshoe_steel
+2020-09-11 10:50:34: WARNING[Main]: Not registering alias, item with same name is already defined: petz:cheese -> mobs:cheese
+2020-09-11 10:50:43: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/optiworld2]
+2020-09-11 10:50:43: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-11 10:51:04: ACTION[Server]: gary [172.18.0.1] joins game. List of players: gary
+2020-09-11 10:51:10: ERROR[CurlFetch]: http://agent:8088/info not found (Couldn't connect to server) (response code 0)
+2020-09-11 10:51:29: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-11 10:51:29: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2020-09-11 10:55:04: [Main]: Automatically selecting world at [/var/lib/minetest/.minetest/worlds/optiworld2]
+2020-09-11 10:55:04: ACTION[Main]: New font registered in font_api: metro.
+2020-09-11 10:55:06: [Main]: Whirlpool Default Loaded
+2020-09-11 10:55:06: ACTION[Main]: New font registered in font_api: tinycurs.
+2020-09-11 10:55:06: WARNING[Main]: Field "height_min": Deprecated: new name is "y_min".
+2020-09-11 10:55:06: WARNING[Main]: Field "height_max": Deprecated: new name is "y_max".
+2020-09-11 10:55:10: WARNING[Main]: Not registering alias, item with same name is already defined: petz:horseshoe -> mobs:horseshoe_steel
+2020-09-11 10:55:10: WARNING[Main]: Not registering alias, item with same name is already defined: petz:cheese -> mobs:cheese
+2020-09-11 10:55:20: ACTION[Main]: World at [/var/lib/minetest/.minetest/worlds/optiworld2]
+2020-09-11 10:55:20: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2020-09-11 10:55:55: ACTION[Server]: gary [172.19.0.1] joins game. List of players: gary
+2020-09-11 10:56:01: ACTION[Server]: gary uses petz:dreamcatcher, pointing at [node under=1633,11,371 above=1632,11,371]
+2020-09-11 10:56:05: ACTION[Server]: gary digs default:sand at (1633,11,371)
+2020-09-11 10:56:16: ERROR[CurlFetch]: http://agent:8080/v1/config not found (Couldn't connect to server) (response code 0)
+2020-09-11 10:57:09: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2020-09-11 10:57:09: ACTION[Main]: Server: Shutting down

@@ -10,6 +10,8 @@ server_announce = false
 load_mod_optimizely = false
 load_mod_villages = false
 
+load_mod_optimizely_agent = true
+
 load_mod_areas = true
 load_mod_falls = true
 load_mod_fireworkz = true
